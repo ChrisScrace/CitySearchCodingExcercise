@@ -1,0 +1,9 @@
+c:\users\blue\documents\visual studio 2015\Projects\AXACodingEx\AXACodingEx\bin\Debug\AXACodingEx.exe.config
+c:\users\blue\documents\visual studio 2015\Projects\AXACodingEx\AXACodingEx\obj\Debug\AXACodingEx.csprojResolveAssemblyReference.cache
+c:\users\blue\documents\visual studio 2015\Projects\AXACodingEx\AXACodingEx\obj\Debug\AXACodingEx.Form1.resources
+c:\users\blue\documents\visual studio 2015\Projects\AXACodingEx\AXACodingEx\obj\Debug\AXACodingEx.Properties.Resources.resources
+c:\users\blue\documents\visual studio 2015\Projects\AXACodingEx\AXACodingEx\obj\Debug\AXACodingEx.csproj.GenerateResource.Cache
+c:\users\blue\documents\visual studio 2015\Projects\AXACodingEx\AXACodingEx\bin\Debug\AXACodingEx.exe
+c:\users\blue\documents\visual studio 2015\Projects\AXACodingEx\AXACodingEx\bin\Debug\AXACodingEx.pdb
+c:\users\blue\documents\visual studio 2015\Projects\AXACodingEx\AXACodingEx\obj\Debug\AXACodingEx.exe
+c:\users\blue\documents\visual studio 2015\Projects\AXACodingEx\AXACodingEx\obj\Debug\AXACodingEx.pdb
