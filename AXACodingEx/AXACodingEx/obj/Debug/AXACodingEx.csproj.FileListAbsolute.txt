@@ -7,3 +7,12 @@ c:\users\blue\documents\visual studio 2015\Projects\AXACodingEx\AXACodingEx\bin\
 c:\users\blue\documents\visual studio 2015\Projects\AXACodingEx\AXACodingEx\bin\Debug\AXACodingEx.pdb
 c:\users\blue\documents\visual studio 2015\Projects\AXACodingEx\AXACodingEx\obj\Debug\AXACodingEx.exe
 c:\users\blue\documents\visual studio 2015\Projects\AXACodingEx\AXACodingEx\obj\Debug\AXACodingEx.pdb
+C:\Users\Blue\Documents\GitHub\CitySearchCodingExcercise\AXACodingEx\AXACodingEx\bin\Debug\AXACodingEx.exe.config
+C:\Users\Blue\Documents\GitHub\CitySearchCodingExcercise\AXACodingEx\AXACodingEx\obj\Debug\AXACodingEx.exe
+C:\Users\Blue\Documents\GitHub\CitySearchCodingExcercise\AXACodingEx\AXACodingEx\obj\Debug\AXACodingEx.pdb
+C:\Users\Blue\Documents\GitHub\CitySearchCodingExcercise\AXACodingEx\AXACodingEx\bin\Debug\AXACodingEx.exe
+C:\Users\Blue\Documents\GitHub\CitySearchCodingExcercise\AXACodingEx\AXACodingEx\bin\Debug\AXACodingEx.pdb
+C:\Users\Blue\Documents\GitHub\CitySearchCodingExcercise\AXACodingEx\AXACodingEx\obj\Debug\AXACodingEx.csprojResolveAssemblyReference.cache
+C:\Users\Blue\Documents\GitHub\CitySearchCodingExcercise\AXACodingEx\AXACodingEx\obj\Debug\AXACodingEx.Form1.resources
+C:\Users\Blue\Documents\GitHub\CitySearchCodingExcercise\AXACodingEx\AXACodingEx\obj\Debug\AXACodingEx.Properties.Resources.resources
+C:\Users\Blue\Documents\GitHub\CitySearchCodingExcercise\AXACodingEx\AXACodingEx\obj\Debug\AXACodingEx.csproj.GenerateResource.Cache

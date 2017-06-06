@@ -43,7 +43,7 @@ namespace AXACodingEx
         public static CityTree LoadCitiesList()
         {
             CityTree cities = new CityTree();
-            string filename = @"C:\Users\Blue\Documents\Visual Studio 2015\Projects\AXACodingEx\world-cities.csv";
+            string filename = @"..\..\..\world-cities.csv";
 
             string[] linesInFile = File.ReadAllLines(filename);
             string[] CityNames = new string[0];
